@@ -53,6 +53,14 @@ Please contact me via 👇🏿
     <img src="https://skillicons.dev/icons?i=azure,git,py,r,sklearn,vscode"/>
 </div>
 
+<hr/>
+
+<div align='center'>
+  
+![0_ziJgXyS25Cy7Zazh](https://github.com/user-attachments/assets/bb95e5d7-c25d-4268-be93-f7313ada372c)
+
+</div>
+
 
 <!---
 Pynero001/Pynero001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
