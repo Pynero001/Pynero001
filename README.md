@@ -57,7 +57,7 @@ Please contact me via 👇🏿
 
 <div align='center'>
   
-![0_ziJgXyS25Cy7Zazh](https://github.com/user-attachments/assets/bb95e5d7-c25d-4268-be93-f7313ada372c)
+![0_ziJgXyS25Cy7Zazh](Humanoid.gif)
 
 </div>
 
