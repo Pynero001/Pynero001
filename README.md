@@ -1,5 +1,6 @@
-<img align="right" 
-  src="https://visitor-badge.laobi.icu/badge?page_id=Pynero001.Pynero001-badge&left_text=Total%20Visits"/>
+<p align="center">
+  <img src="Dp_clear.gif" alt="My DP" height="200" width="200" style="border-radius: 50%;" />
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Titan+One&size=35&center=true&vCenter=true&color=03DDDC&width=500&height=70&duration=4000&lines=Hellooo!!+🤓;+I'm+Fortune+Okafor.+👨🏿‍⚕️;" />
